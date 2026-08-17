@@ -104,21 +104,16 @@ vendor-performance-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+[https://github.com/kleditsbat-art/retail-store-sales-performance-analysis-python-powerbi-sql/tree/main]
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.py
+[Retail Store Sales DB.sql
 ```
-4. Create vendor summary table:
-```bash
-python scripts/get_vendor_summary.py
-```
-5. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
-6. Open Power BI Dashboard:
-   - `dashboard/vendor_performance_dashboard.pbix`
+4. Open and run notebooks:
+   - `Retail Store Sales Notebook.ipynb`
+5. Open Power BI Dashboard:
+   - `dashboard/Retail Store Sales Dashboard.pbix`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
