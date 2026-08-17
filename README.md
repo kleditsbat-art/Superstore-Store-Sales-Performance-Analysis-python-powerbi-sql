@@ -97,7 +97,7 @@ vendor-performance-analysis/
   - Top products by sales
   - Products by Profit
 
-![Retali Sales Dashboard](Retail Store Sales Dashboard Screenshot.png)
+![Retali Sales Dashboard](Retail_Store_Sales_Dashboard_Screenshot.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
