@@ -132,6 +132,6 @@ python scripts/get_vendor_summary.py
 
 **Kartik Lokare**  
 Data Analyst  
-📧 Email: kartiklokare8@gmali.com
+📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
 🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
