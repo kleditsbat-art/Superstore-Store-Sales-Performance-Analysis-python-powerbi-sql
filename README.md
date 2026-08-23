@@ -127,5 +127,5 @@ vendor-performance-analysis/
 
 **Kartik Lokare**  
 Data Analyst  
-📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
-🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
+- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
+- 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
