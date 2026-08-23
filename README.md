@@ -22,7 +22,7 @@ _Analyze Retail Store sales performance analysis , profitability and support to 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project presents an interactive Retail Store Sales Dashboard developed in Power BI to analyze sales performance , profitability  and support to decision-making using Power BI , Python , SQL . 
+This project presents detail analysis on Retail Store Sales data. Building Dashboard  to analyze sales performance , profitability  and support to decision-making using Power BI , Python , SQL . 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
