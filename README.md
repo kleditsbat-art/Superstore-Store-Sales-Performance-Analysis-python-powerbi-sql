@@ -1,7 +1,7 @@
 
 # 🧾 Retail Store Performance - Sales Analysis
 
-_Analyze Retail Store sales performance , profitability and support to decision-making using Power BI ,Python , SQL._
+_Analyze Retail Store sales performance analysis , profitability and support to decision-making using Power BI ,Python , SQL._
 
 ---
 
