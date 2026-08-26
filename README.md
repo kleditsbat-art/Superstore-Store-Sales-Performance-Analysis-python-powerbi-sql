@@ -26,7 +26,7 @@ This project presents detail analysis on Retail Store Sales data. Building Dashb
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-Retail Store has experienced inconsistent sales and declining profitability across different regions and product categories. Management cannot easily identify which products, customers, and regions are driving revenue and which are reducing profits. They need Analysis of sales, performance of last year, and support data-driven decisions to increase revenue and profitability.
+Retail Store has experienced inconsistent sales across different regions and product categories. Management cannot easily identify which products, customers, and regions are driving revenue and which are reducing profits. They need Analysis of sales, performance of last year, and support data-driven decisions to increase revenue and profitability.
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
@@ -106,13 +106,13 @@ retail-store-sales-performance-analysis/
 ```bash
 [https://github.com/kleditsbat-art/retail-store-sales-performance-analysis-python-powerbi-sql/tree/main]
 ```
-3. Load the CSVs and ingest into database:
+2. Load the CSVs and ingest into database:
 ```bash
-[Retail Store Sales DB.sql
+[Retail Store Sales DB.sql]
 ```
-4. Open and run notebooks:
+3. Open and run notebooks:
    - `Retail Store Sales Notebook.ipynb`
-5. Open Power BI Dashboard:
+4. Open Power BI Dashboard:
    - `dashboard/Retail Store Sales Dashboard.pbix`
 
 ---
