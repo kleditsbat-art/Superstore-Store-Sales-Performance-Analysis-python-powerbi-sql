@@ -1,5 +1,5 @@
 
-# 🧾 Retail Store Performance - Sales Analysis
+# 🧾 Superstore Store Performance - Sales Analysis
 
 _Analyze Superstore Store sales performance analysis , profitability and support to decision-making using Power BI ,Python , SQL._
 
@@ -129,3 +129,4 @@ Superstore-store-sales-performance-analysis/
 Data Analyst  
 - 📧 Email: [kartiklokare8@gmail.com](kartiklokare8@gmail.com)
 - 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
+- 🔗 [Portfolio](https://github.com/kleditsbat-art?tab=repositories)
