@@ -46,7 +46,7 @@ Retail Store has experienced inconsistent sales and declining profitability acro
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+retail-store-sales-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -127,5 +127,5 @@ vendor-performance-analysis/
 
 **Kartik Lokare**  
 Data Analyst  
-- 📧 Email: [kartiklokare8@gmali.com](kartiklokare8@gmali.com)
+- 📧 Email: [kartiklokare8@gmail.com](kartiklokare8@gmail.com)
 - 🔗 [LinkedIn](linkedin.com/in/kartik-lokare-5521a7395)  
