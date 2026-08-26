@@ -1,7 +1,7 @@
 
 # 🧾 Superstore Store Performance - Sales Analysis
 
-_Analyze Superstore Store sales performance analysis , profitability and support to decision-making using Power BI ,Python , SQL._
+_Analyze Superstore sales performance analysis , profitability and support to decision-making using Power BI ,Python , SQL._
 
 ---
 
@@ -22,16 +22,16 @@ _Analyze Superstore Store sales performance analysis , profitability and support
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project presents detail analysis on Superstore Store Sales data. Building Dashboard  to analyze sales performance , profitability  and support to decision-making using Power BI , Python , SQL . 
+This project presents detail analysis on Superstore data. Building Dashboard  to analyze sales performance , profitability  and support to decision-making using Power BI , Python , SQL . 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-Superstore Store has experienced inconsistent sales across different regions and product categories. Management cannot easily identify which products, customers, and regions are driving revenue and which are reducing profits. They need Analysis of sales, performance of last year, and support data-driven decisions to increase revenue and profitability.
+Superstore has experienced inconsistent sales across different regions and product categories. Management cannot easily identify which products, customers, and regions are driving revenue and which are reducing profits. They need Analysis of sales, performance of last year, and support data-driven decisions to increase revenue and profitability.
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- CSV file located in `/data/` folder (Superstore store sales Dataset)
+- CSV file located in `/data/` folder (Superstore sales Dataset)
 
 ---
 
@@ -46,21 +46,21 @@ Superstore Store has experienced inconsistent sales across different regions and
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-Superstore-store-sales-performance-analysis/
+Superstore-sales-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── Superstore Store Sales Report.pdf
+├── Superstore Sales Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
-│   └── Superstore Store Sales Notebook .ipynb
+│   └── Superstore Sales Notebook .ipynb
 │
 ├── scripts/                    # Python scripts for ingestion and processing
-│   └── Superstore Store Sales db.py
+│   └── Superstore Sales db.py
 │
 ├── dashboard/                  # Power BI dashboard file
-│   └── Superstore Store Sales Dashboard.pbix
+│   └── Superstore Sales Dashboard.pbix
 ```
 
 ---
@@ -97,23 +97,23 @@ Superstore-store-sales-performance-analysis/
   - Top products by sales
   - Products by Profit
 
-![Retali Sales Dashboard](images/Retail_Store_Sales_Dashboard_Screenshot.png)
+![Retali Sales Dashboard](images/Superstore_Dashboard_Screenshot.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
 ```bash
-[https://github.com/kleditsbat-art/Superstore-store-sales-performance-analysis-python-powerbi-sql/tree/main]
+[https://github.com/kleditsbat-art/Superstore-sales-performance-analysis-python-powerbi-sql/tree/main]
 ```
 2. Load the CSVs and ingest into database:
 ```bash
-[Superstore Store Sales DB.sql]
+[Superstore Sales DB.sql]
 ```
 3. Open and run notebooks:
-   - `Superstore Store Sales Notebook.ipynb`
+   - `Superstore Sales Notebook.ipynb`
 4. Open Power BI Dashboard:
-   - `Superstor Retail Store Sales Dashboard.pbix`
+   - `Superstore Sales Dashboard.pbix`
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
